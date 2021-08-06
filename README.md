@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishalWakpaijan
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning redux state manager
 - 💞️ I’m looking to collaborate on front end design and web development
 - 📫 email me at vw56500@gmail.com
 
